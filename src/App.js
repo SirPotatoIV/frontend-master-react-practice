@@ -4,8 +4,6 @@ import { Router, Link } from "@reach/router";
 import SearchParams from "./SearchParams";
 import Details from "./Details";
 
-const test = 12;
-
 const App = () => {
   return (
     <div>
